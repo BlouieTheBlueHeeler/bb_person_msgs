@@ -1,0 +1,7 @@
+float32 depthFocalLengthX
+float32 depthFocalLengthY
+float32 depthPrincipalPointX
+float32 depthPrincipalPointY
+float32 depthRadialDistortionSecondOrder
+float32 depthRadialDistortionFourthOrder
+float32 depthRadialDistortionSixthOrder
