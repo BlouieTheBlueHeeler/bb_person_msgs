@@ -16,7 +16,7 @@ add_message_files(
   FILES
   Person.msg
   Persons.msg
-  CameraIntrinsics.msg
+  TrackingStates.msg
 )
 
 generate_messages(

@@ -1,3 +1,5 @@
+std_msgs/Header header
+bb_kinect2_msgs/TrackingStates tracking_states
 uint8 SpineBase=0
 uint8 SpineMid=1
 uint8 Neck=2
