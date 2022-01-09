@@ -1,5 +1,4 @@
 std_msgs/Header header
-bb_kinect2_msgs/TrackingStates tracking_states
 uint8 SpineBase=0
 uint8 SpineMid=1
 uint8 Neck=2
@@ -27,5 +26,4 @@ uint8 HandTipRight=23
 uint8 ThumbRight=24
 uint8 tracking_index
 uint32 tracking_id
-geometry_msgs/Point[] joints2D
-geometry_msgs/Point[] joints3D
+bb_person_msgs/BodySegment[] body_segments

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>bb_kinect2_msgs</name>
+  <name>bb_person_msgs</name>
   <version>0.0.1</version>
   <description>Message definitions for the Kinect2 sensor.</description>
 
-  <maintainer email="bluish_gecko@gmail.com">Blouie the Blue Heeler</maintainer>
+  <maintainer email="bluish.gecko@gmail.com">Blouie the Blue Heeler</maintainer>
   <license>LGPLv3</license>
 
   <buildtool_depend>catkin</buildtool_depend>
